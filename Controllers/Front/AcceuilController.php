@@ -1,3 +1,3 @@
 <?php
 
-include_once $_SERVEUR['DOCUMENT_ROOT'] . '../Views/Front/Acceuil.html';
+include_once $_SERVER['DOCUMENT_ROOT'] . '../Views/Front/acceuil.html';
